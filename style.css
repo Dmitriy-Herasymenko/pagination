@@ -9,7 +9,7 @@
 .table td,
 .table th {
     border: 1px solid #ddd;
-    padding: 9px;
+    padding: 10px;
 }
 
 .table tr:nth-child(even) {
